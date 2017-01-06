@@ -1,0 +1,26 @@
+{
+  "name": "unide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethereum-unIDe/unIDe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethereum-unIDe/unIDe/issues"
+  },
+  "homepage": "https://github.com/ethereum-unIDe/unIDe#readme",
+  "dependencies": {
+    "ipfs-api": "^12.1.2",
+    "web3": "^0.17.0-beta"
+  }
+}
